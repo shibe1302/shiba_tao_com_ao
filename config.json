@@ -1,0 +1,12 @@
+{
+    "com0com_paths": [
+        "C:\\Program Files (x86)\\com0com\\setupc.exe",
+        "C:\\Program Files\\com0com\\setupc.exe",
+        "C:\\com0com\\setupc.exe"
+    ],
+    "app_settings": {
+        "theme": "dark",
+        "default_com_a": "COM8",
+        "default_com_b": "COM9"
+    }
+}
